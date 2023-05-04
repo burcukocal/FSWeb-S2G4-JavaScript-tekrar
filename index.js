@@ -138,29 +138,10 @@ function CemberinAlani(yaricap, pi){
 		tekraredensayilar.push(`${sayi} sayısı ${depo[sayi]} kere tekrar edilmiştir`)
 		}}
 
-	console.log(tekraredensayilar)
-
-	
-	/*const tekrarSayilar = sayilar => sayilar.filter((sayi, sira) => sayilar.indexOf(sayi) !== sira)
-	const tekrarDizisi = tekrarSayilar(sayilar);
-	
-	
-	var tekrarSayisi = [];
-	for(let i=0; i<tekrarDizisi.length; i++){
-		for(let j=0; j<sayilar.length; j++){
-			if(tekrarDizisi[i] == sayilar[j]){
-				tekrarSayisi++
-			}
-		}
-		tekraredensayilar = 
-	}*/
 	//console.log(tekraredensayilar)
 
-
-
-
 	
-		
+	
 
 /*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
 function sa(){
